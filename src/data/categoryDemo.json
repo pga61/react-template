@@ -1,0 +1,206 @@
+[
+  {
+    "categoryName": "Home Decor",
+    "url": "#homeDecor",
+    "subCategory1": [
+      {
+        "name": "Topwear",
+        "surl": "menu1",
+        "subCategory2": [
+          "T-Shirts",
+          "Casual Shirts",
+          "Formal Shirts",
+          "Sweaters & Sweatshirts",
+          "Jackets"
+        ]
+      },
+      {
+        "name": "Bottomwear",
+        "surl": "menu2",
+        "subCategory2": [
+          "T-ShirtsJeans",
+          "Casual Trousers",
+          "Formal Trousers",
+          "Shorts",
+          "Track Pants"
+        ]
+      },
+      {
+        "name": "Indian & Festive Wear",
+        "surl": "menu3",
+        "subCategory2": [
+          "Kurtas & Kurta Sets",
+          "Sherwanis",
+          "Nehru Jackets",
+          "Sweaters & Sweatshirts",
+          "Plus Size"
+        ]
+      },
+      {
+        "name": "Footwear",
+        "surl": "menu4",
+        "subCategory2": [
+          "Casual Shoes",
+          "Sports Shoes",
+          "Formal Shoes",
+          "Sandals & Floaters",
+          "Flip Flops",
+          "Socks"
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Kids",
+    "url": "#kids",
+    "subCategory1": [
+      {
+        "name": "Topwear",
+        "surl": "menu1",
+        "subCategory2": [
+          "T-Shirts",
+          "Casual Shirts",
+          "Formal Shirts",
+          "Sweaters & Sweatshirts",
+          "Jackets"
+        ]
+      },
+      {
+        "name": "Bottomwear",
+        "surl": "menu2",
+        "subCategory2": [
+          "T-ShirtsJeans",
+          "Casual Trousers",
+          "Formal Trousers",
+          "Shorts",
+          "Track Pants"
+        ]
+      },
+      {
+        "name": "Indian & Festive Wear",
+        "surl": "menu3",
+        "subCategory2": [
+          "Kurtas & Kurta Sets",
+          "Sherwanis",
+          "Nehru Jackets",
+          "Sweaters & Sweatshirts",
+          "Plus Size"
+        ]
+      },
+      {
+        "name": "Footwear",
+        "surl": "menu4",
+        "subCategory2": [
+          "Casual Shoes",
+          "Sports Shoes",
+          "Formal Shoes",
+          "Sandals & Floaters",
+          "Flip Flops",
+          "Socks"
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Women",
+    "url": "#women",
+    "subCategory1": [
+      {
+        "name": "Topwear",
+        "surl": "menu1",
+        "subCategory2": [
+          "T-Shirts",
+          "Casual Shirts",
+          "Formal Shirts",
+          "Sweaters & Sweatshirts",
+          "Jackets"
+        ]
+      },
+      {
+        "name": "Bottomwear",
+        "surl": "menu2",
+        "subCategory2": [
+          "T-ShirtsJeans",
+          "Casual Trousers",
+          "Formal Trousers",
+          "Shorts",
+          "Track Pants"
+        ]
+      },
+      {
+        "name": "Indian & Festive Wear",
+        "surl": "menu3",
+        "subCategory2": [
+          "Kurtas & Kurta Sets",
+          "Sherwanis",
+          "Nehru Jackets",
+          "Sweaters & Sweatshirts",
+          "Plus Size"
+        ]
+      },
+      {
+        "name": "Footwear",
+        "surl": "menu4",
+        "subCategory2": [
+          "Casual Shoes",
+          "Sports Shoes",
+          "Formal Shoes",
+          "Sandals & Floaters",
+          "Flip Flops",
+          "Socks"
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Men",
+    "url": "#men",
+    "subCategory1": [
+      {
+        "name": "Topwear",
+        "surl": "menu1",
+        "subCategory2": [
+          "T-Shirts",
+          "Casual Shirts",
+          "Formal Shirts",
+          "Sweaters & Sweatshirts",
+          "Jackets"
+        ]
+      },
+      {
+        "name": "Bottomwear",
+        "surl": "menu2",
+        "subCategory2": [
+          "T-ShirtsJeans",
+          "Casual Trousers",
+          "Formal Trousers",
+          "Shorts",
+          "Track Pants"
+        ]
+      },
+      {
+        "name": "Indian & Festive Wear",
+        "surl": "menu3",
+        "subCategory2": [
+          "Kurtas & Kurta Sets",
+          "Sherwanis",
+          "Nehru Jackets",
+          "Sweaters & Sweatshirts",
+          "Plus Size"
+        ]
+      },
+      {
+        "name": "Footwear",
+        "surl": "menu4",
+        "subCategory2": [
+          "Casual Shoes",
+          "Sports Shoes",
+          "Formal Shoes",
+          "Sandals & Floaters",
+          "Flip Flops",
+          "Socks"
+        ]
+      }
+    ]
+  }
+]

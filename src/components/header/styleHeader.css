@@ -1,0 +1,42 @@
+#imaginary_container {
+  margin-top: 20%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon {
+  background: white !important;
+}
+.stylish-input-group .form-control {
+  border-right: 0;
+  box-shadow: 0 0 0;
+  border-color: #ccc;
+}
+.stylish-input-group button {
+  border: 0;
+  background: transparent;
+}
+
+.searchInLine {
+  display: inline-flex !important;
+}
+
+.navItem {
+  color: black !important;
+  font-weight: bold !important;
+}
+.searchBox {
+  border: none !important;
+  background: #f2fbf3 !important;
+  padding-left: 15px;
+}
+
+.navBtn {
+  border: none !important;
+  padding-left: 15px;
+  font-size: 14px !important;
+}
+.logo {
+  max-width: 8%;
+}
+.nav-container {
+  font-family: "Lato";
+  font-size: 16px;
+}

@@ -1,0 +1,188 @@
+{
+  "products": [
+    {
+      "id": 2001,
+      "name": "Roadster Pack of 2 T-shirts",
+      "category": "topwear",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 2000.0,
+      "quantity": 30,
+      "tags": ["new", "casual", "slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2283299/2017/11/27/11511763435474-NA-8801511763435275-1_mini.jpg"
+    },
+    {
+      "id": 2007,
+      "name": "HRX by Hrithik Roshan Charcoal Grey Washed Jeans",
+      "category": "bottomwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1163452/2016/1/12/11452588479135-Tulsattva-Women-Jeggings-3151452588478774-1_mini.jpg"
+    },
+    {
+      "id": 2002,
+      "name": "Highlander Grey and Navy T-shirt",
+      "category": "topwear",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 1000.0,
+      "quantity": 32,
+      "tags": ["casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1510825/2016/9/24/11474716002931-SASSAFRAS-Women-Taupe-Solid-Regular-Top-3781474716002677-1_mini.jpg"
+    },
+    {
+      "id": 2003,
+      "name": "United Colors of Benetton Polo T-shirts",
+      "category": "topwear",
+      "description":
+        "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+      "price": 100.0,
+      "quantity": 10,
+      "tags": ["new"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/image/style/properties/830782/Harpa-Women-Tops_1_c3b2ed259cc5d0ddb795a23c90942242_mini.jpg"
+    },
+    {
+      "id": 2015,
+      "name": "Nike Women Grey Dual Fusion X 2 Running Shoes",
+      "category": "footwear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1226022/2016/2/19/11455885749240-Marc-Lorie-Women-Cream-Coloured-Boots-1911455885748874-1_mini.jpg"
+    },
+    {
+      "id": 2004,
+      "name": "INVICTUS White Printed Polo T-shirt",
+      "category": "topwear",
+      "description":
+        "This simple yet trendy tee is sure to mesmerise all with its stunning appeal. Team it with a pair of washed jeans and slip-ons to complete the ensemble.",
+      "price": 4000.0,
+      "quantity": 15,
+      "tags": ["new", "slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1437335/2016/7/18/11468832516475-RARE-Women-Tops-1041468832516238-1_mini.jpg"
+    },
+    {
+      "id": 2005,
+      "name": "Roadster Pack of 2 T-shirts",
+      "category": "topwear",
+      "description":
+        "Set a style statement in these T-shirts from Roadster. Team them with a jacket and a pair of jeans for a cool look.",
+      "price": 5000.0,
+      "quantity": 13,
+      "tags": ["slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1960588/2017/6/13/11497332056477-plusS-Women-Tops-8661497332056215-1_mini.jpg"
+    },
+    {
+      "id": 2011,
+      "name":
+        "Varkala Silk Sarees Red and Purple Art Silk and Jacquard Traditional Saree",
+      "category": "indian-and-festive-wear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2275759/2017/11/23/11511423128313-na-8131511423128148-1_mini.jpg"
+    },
+    {
+      "id": 2006,
+      "name": "United Colors of Benetton T-shirt",
+      "category": "topwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1571698/2016/9/30/11475231573439-Harpa-Women-Tops-9861475231573236-1_mini.jpg"
+    },
+
+    {
+      "id": 2008,
+      "name": "Tokyo Talkies Blue Distressed Jeans",
+      "category": "bottomwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2046323/2017/8/17/11502948702896-SASSAFRAS-Women-Jeggings-6541502948702622-1_mini.jpg"
+    },
+    {
+      "id": 2009,
+      "name": "FOREVER 21 Blue Washed Ankle Fit Jeans",
+      "category": "bottomwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1983776/2017/7/5/11499249923523-Lux-Lyra-Women-Jeggings-4961499249923736-1_mini.jpg"
+    },
+    {
+      "id": 2010,
+      "name": "Moda Rapido Blue Skinny Fit Jeans",
+      "category": "bottomwear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1409612/2016/6/25/11466829236175-Bitterlime-Beige-Skinny-Jeggings-6911466829235969-1_mini.jpg"
+    },
+
+    {
+      "id": 2012,
+      "name": "Inddus Red Cotton and Art Silk Traditional Saree",
+      "category": "indian-and-festive-wear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2034431/2017/8/8/11502172803301-Ahalyaa-Women-Kurtas-8781502172803124-1_mini.jpg"
+    },
+    {
+      "id": 2013,
+      "name":
+        "7 Colors Lifestyle Orange Embroidered Semi-Stitched Lehenga Choli",
+      "category": "indian-and-festive-wear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1679788/2016/12/9/11481283288324-Tissu-Women-Blue-Solid-Anarkali-Kurta-4461481283288099-1_mini.jpg"
+    },
+    {
+      "id": 2014,
+      "name": "Marc Loire Women Black Wedges",
+      "category": "footwear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1417776/2016/7/1/11467372009692-Shoetopia-Women-Casual-Shoes-2941467372009505-1_mini.jpg"
+    }
+  ]
+}

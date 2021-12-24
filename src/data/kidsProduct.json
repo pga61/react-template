@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "id": 3001,
+      "name": "Roadster Pack of 2 T-shirts",
+      "category": "topwear",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 2000.0,
+      "quantity": 30,
+      "tags": ["new", "casual", "slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1739399/2017/1/25/11485337237485-My-Lil-Lambs-Boys-Shirts-4141485337237402-1_mini.jpg"
+    },
+    {
+      "id": 3002,
+      "name": "Highlander Grey and Navy T-shirt",
+      "category": "topwear",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 1000.0,
+      "quantity": 32,
+      "tags": ["casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2316214/2017/12/7/11512644933894-Kids-Striped-Pique-Polo-8171512644933784-1_mini.jpg"
+    },
+    {
+      "id": 3011,
+      "name": "jute baby",
+      "category": "footwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2151595/2017/9/28/11506585414509-Walktrendy-by-Walkinlifestyle-Girls-Gold-Toned-Solid-Peep-Toes-1981506585414254-1_mini.jpg"
+    },
+    {
+      "id": 3012,
+      "name": "United Colors of Benetton T-shirt",
+      "category": "topwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2067849/2017/8/30/11504087185643-Adiva-Girls-Party-Wear-Gown-For-Kids-2171504087185418-1_mini.jpg"
+    },
+    {
+      "id": 3003,
+      "name": "Adidas Originals Printed Girl's Full Length Tight",
+      "category": "bottomwear",
+      "description":
+        "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+      "price": 100.0,
+      "quantity": 10,
+      "tags": ["new"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2252384/2017/11/15/11510744202781-na-3491510744202520-1_mini.jpg"
+    },
+    {
+      "id": 3004,
+      "name": "Adidas Originals Printed Girl's Full Length Tight",
+      "category": "bottomwear",
+      "description":
+        "This simple yet trendy tee is sure to mesmerise all with its stunning appeal. Team it with a pair of washed jeans and slip-ons to complete the ensemble.",
+      "price": 4000.0,
+      "quantity": 15,
+      "tags": ["new", "slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1537867/2016/10/2/11475393142791-United-Colors-of-Benetton-Boys-Trousers-4591475393142661-1_mini.jpg"
+    },
+    {
+      "id": 3005,
+      "name": "Saarah Girl's A-line Blue Dress",
+      "category": "indian-and-festive-wear",
+      "description":
+        "Set a style statement in these T-shirts from Roadster. Team them with a jacket and a pair of jeans for a cool look.",
+      "price": 5000.0,
+      "quantity": 13,
+      "tags": ["slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2024668/2017/8/2/11501668975956-AJ-Dezines-kids-sherwani-set-for-boys-9911501668975714-1_mini.jpg"
+    },
+    {
+      "id": 3006,
+      "name": "Saarah Self Design Girl's Lehenga Choli",
+      "category": "indian-and-festive-wear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1876126/2017/5/2/11493727824539-ATUN-All-Things-Uber-Nice-Girls-Lehenga-Choli-31493727824312-1_mini.jpg"
+    },
+    {
+      "id": 3007,
+      "name": "Barbie BB1DBL1457 Bellies",
+      "category": "footwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2352873/2017/12/19/11513686845216-Puma-Unisex-Red-Sneakers-5741513686845097-1_mini.jpg"
+    },
+    {
+      "id": 3008,
+      "name": "Puma Track Jr DP Boys, Girls Black, Blue Sports Sandals",
+      "category": "footwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1989596/2017/9/7/11504765812474-Adidas-Unisex-Black-Textile-Mid-Top-Basketball-Shoes-3391504765812283-1_mini.jpg"
+    },
+    {
+      "id": 3009,
+      "name": "Zebra Casuals",
+      "category": "footwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1766169/2017/3/7/11488871576985-Kittens-Girls-Sandals-1961488871576827-1_mini.jpg"
+    },
+    {
+      "id": 3010,
+      "name": "Shuvs Casuals Shoes",
+      "category": "footwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2269194/2017/12/12/11513078139719-Puma-Unisex-Sports-Shoes-8041513078139604-1_mini.jpg"
+    },
+    {
+      "id": 3013,
+      "name": "612 League Girl's T-Shirt",
+      "category": "topwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1885384/2017/5/4/11493890199977-naughty-ninos-Girls-Jumpsuit-6681493890199784-1_mini.jpg"
+    },
+    {
+      "id": 3014,
+      "name": "Cherokee Girl's T-shirt",
+      "category": "topwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1992456/2017/7/17/11500275772079-Aarika-Girls-Designer-Party-Wear-Gown-With-Halter-Neck-7381500275771939-1_mini.jpg"
+    }
+  ]
+}

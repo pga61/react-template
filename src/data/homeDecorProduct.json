@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 4001,
+      "name": "bombay Dyeing",
+      "category": "bedsheets",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 2000.0,
+      "quantity": 30,
+      "tags": ["new", "casual", "slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1372819/2016/6/13/11465810731688-SEJ-by-Nisha-Gupta-White-160-TC-Cotton-Double-Bedsheet-with-2-Pillow-Covers-7931465810731488-1_mini.jpg"
+    },
+    {
+      "id": 4002,
+      "name": "Portico New York",
+      "category": "bedsheets",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 1000.0,
+      "quantity": 32,
+      "tags": ["casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2303499/2017/12/2/11512206277643-NA-1461512206277563-1_mini.jpg"
+    },
+    {
+      "id": 4003,
+      "name": "Fashion String",
+      "category": "curtains",
+      "description":
+        "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+      "price": 100.0,
+      "quantity": 10,
+      "tags": ["new"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2143126/2017/9/27/11506507186209-ROSARA-HOME-Aron-Yellow-Floral-Single-Eyelet-Window-Curtain-9821506507186072-1_mini.jpg"
+    },
+    {
+      "id": 4006,
+      "name": "Bombay dyeing",
+      "category": "towels",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2334441/2017/12/12/11513071381670-na-2891513071381609-1_mini.jpg"
+    },
+    {
+      "id": 4007,
+      "name": "trident",
+      "category": "towels",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1536504/2016/10/7/11475823164069-Trident-Unisex-Bath-Robe-751475823163871-1_mini.jpg"
+    },
+    {
+      "id": 4008,
+      "name": "Raymond Home",
+      "category": "bedsheets",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1868471/2017/4/25/11493116637115-Home-Ecstasy-Unisex-Bedsheets-8901493116637005-1_mini.jpg"
+    },
+    {
+      "id": 4009,
+      "name": "SEJ by nisha guptha",
+      "category": "bedsheets",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2021711/2017/8/1/11501567071676-SPACES-Unisex-Bedsheets-5271501567071570-1_mini.jpg"
+    },
+    {
+      "id": 4010,
+      "name": "Swayam",
+      "category": "curtains",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1306589/2016/6/9/11465451395176-SWAYAM-Multicoloured-Single-Floral-Print-Long-Door-Curtain-8201465451395048-1_mini.jpg"
+    },
+    {
+      "id": 4011,
+      "name": "Turkish Bath",
+      "category": "towels",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1285689/2016/4/20/11461130275527-Turkish-Bath-Unisex-Bath-Towels-7181461130275184-1_mini.jpg"
+    },
+    {
+      "id": 4012,
+      "name": "United Colors of Benetton T-shirt",
+      "category": "bath-rugs",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/images/style/properties/Sand-Dune-Women-Bath-Robe_7c329731a23a41be85b521f67b645a7a_images_mini.jpg"
+    },
+    {
+      "id": 4013,
+      "name": "House this",
+      "category": "bath-rugs",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/image/style/properties/453708/Sand-Dune-Men-Blue-Bathrobe_1_326f5fc04f567f75322320f59a1dfeb8_mini.jpg"
+    },
+    {
+      "id": 4014,
+      "name": "Well Home",
+      "category": "bath-rugs",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/image/style/properties/933530/Sand-Dune-Unisex-Robe_1_6c1eb1821be1b888a6c79c0951614256_mini.jpg"
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "0": {
+    "categoryName": "men",
+    "product": [
+      {
+        "id": 1001,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 2000.00,
+        "quantity": 30,
+        "tags": [
+          "new",
+          "casual",
+          "slimfit"
+        ],
+        "imgurl": "../images/men/1.jpg"
+      },
+      {
+        "id": 1002,
+        "name": "Highlander Grey & Navy T-shirt",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 1000.00,
+        "quantity": 32,
+        "tags": [
+          "casual"
+        ],
+        "imgurl": "../images/men/2.jpg"
+      },
+      {
+        "id": 1003,
+        "name": "United Colors of Benetton Polo T-shirts",
+        "description": "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+        "price": 100.00,
+        "quantity": 10,
+        "tags": [
+          "new"
+        ],
+        "imgurl": "../images/men/3.jpg"
+      },
+      {
+        "id": 1004,
+        "name": "INVICTUS White Printed Polo T-shirt",
+        "description": "This simple yet trendy tee is sure to mesmerise all with its stunning appeal. Team it with a pair of washed jeans and slip-ons to complete the ensemble.",
+        "price": 4000.00,
+        "quantity": 15,
+        "tags": [
+          "new",
+          "slimfit"
+        ],
+        "imgurl": "../images/men/5.jpg"
+      },
+      {
+        "id": 1005,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "Set a style statement in these T-shirts from Roadster. Team them with a jacket and a pair of jeans for a cool look.",
+        "price": 5000.00,
+        "quantity": 13,
+        "tags": [
+          "slimfit"
+        ],
+        "imgurl": "../images/men/4.jpg"
+      },
+      {
+        "id": 1006,
+        "name": "United Colors of Benetton T-shirt",
+        "description": "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+        "price": 3000.00,
+        "quantity": 20,
+        "tags": [
+          "new",
+          "casual"
+        ],
+        "imgurl": "../images/men/1.jpg"
+      }
+    ]
+  },
+  "1": {
+    "categoryName": "women",
+    "product": [
+      {
+        "id": 1001,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 2000.00,
+        "quantity": 30,
+        "tags": [
+          "new",
+          "casual",
+          "slimfit"
+        ],
+        "imgurl": "../images/women/1.jpg"
+      },
+      {
+        "id": 1002,
+        "name": "Highlander Grey & Navy T-shirt",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 1000.00,
+        "quantity": 32,
+        "tags": [
+          "casual"
+        ],
+        "imgurl": "../images/women/2.jpg"
+      },
+      {
+        "id": 1003,
+        "name": "United Colors of Benetton Polo T-shirts",
+        "description": "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+        "price": 100.00,
+        "quantity": 10,
+        "tags": [
+          "new"
+        ],
+        "imgurl": "../images/women/3.jpg"
+      },
+      {
+        "id": 1004,
+        "name": "INVICTUS White Printed Polo T-shirt",
+        "description": "This simple yet trendy tee is sure to mesmerise all with its stunning appeal. Team it with a pair of washed jeans and slip-ons to complete the ensemble.",
+        "price": 4000.00,
+        "quantity": 15,
+        "tags": [
+          "new",
+          "slimfit"
+        ],
+        "imgurl": "../images/women/5.jpg"
+      },
+      {
+        "id": 1005,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "Set a style statement in these T-shirts from Roadster. Team them with a jacket and a pair of jeans for a cool look.",
+        "price": 5000.00,
+        "quantity": 13,
+        "tags": [
+          "slimfit"
+        ],
+        "imgurl": "../images/women/6.jpg"
+      },
+      {
+        "id": 1006,
+        "name": "United Colors of Benetton T-shirt",
+        "description": "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+        "price": 3000.00,
+        "quantity": 20,
+        "tags": [
+          "new",
+          "casual"
+        ],
+        "imgurl": "../images/women/4.jpg"
+      }
+    ]
+  },
+  "2": {
+    "categoryName": "kids",
+    "product": [
+      {
+        "id": 1001,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 2000.00,
+        "quantity": 30,
+        "tags": [
+          "new",
+          "casual",
+          "slimfit"
+        ],
+        "imgurl": "../images/kids/1.jpg"
+      },
+      {
+        "id": 1002,
+        "name": "Highlander Grey & Navy T-shirt",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 1000.00,
+        "quantity": 32,
+        "tags": [
+          "casual"
+        ],
+        "imgurl": "../images/kids/2.jpg"
+      },
+      {
+        "id": 1003,
+        "name": "United Colors of Benetton Polo T-shirts",
+        "description": "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+        "price": 100.00,
+        "quantity": 10,
+        "tags": [
+          "new"
+        ],
+        "imgurl": "../images/kids/3.jpg"
+      },
+      {
+        "id": 1004,
+        "name": "INVICTUS White Printed Polo T-shirt",
+        "description": "This simple yet trendy tee is sure to mesmerise all with its stunning appeal. Team it with a pair of washed jeans and slip-ons to complete the ensemble.",
+        "price": 4000.00,
+        "quantity": 15,
+        "tags": [
+          "new",
+          "slimfit"
+        ],
+        "imgurl": "../images/kids/4.jpg"
+      },
+      {
+        "id": 1005,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "Set a style statement in these T-shirts from Roadster. Team them with a jacket and a pair of jeans for a cool look.",
+        "price": 5000.00,
+        "quantity": 13,
+        "tags": [
+          "slimfit"
+        ],
+        "imgurl": "../images/kids/5.jpg"
+      },
+      {
+        "id": 1006,
+        "name": "United Colors of Benetton T-shirt",
+        "description": "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+        "price": 3000.00,
+        "quantity": 20,
+        "tags": [
+          "new",
+          "casual"
+        ],
+        "imgurl": "../images/kids/6.jpg"
+      }
+    ]
+  },
+  "3": {
+    "categoryName": "homeDecor",
+    "product": [
+      {
+        "id": 1001,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 2000.00,
+        "quantity": 30,
+        "tags": [
+          "new",
+          "casual",
+          "slimfit"
+        ],
+        "imgurl": "../images/home/1.jpg"
+      },
+      {
+        "id": 1002,
+        "name": "Highlander Grey & Navy T-shirt",
+        "description": "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+        "price": 1000.00,
+        "quantity": 32,
+        "tags": [
+          "casual"
+        ],
+        "imgurl": "../images/home/2.jpg"
+      },
+      {
+        "id": 1003,
+        "name": "United Colors of Benetton Polo T-shirts",
+        "description": "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+        "price": 100.00,
+        "quantity": 10,
+        "tags": [
+          "new"
+        ],
+        "imgurl": "../images/home/3.jpg"
+      },
+      {
+        "id": 1004,
+        "name": "INVICTUS White Printed Polo T-shirt",
+        "description": "This simple yet trendy tee is sure to mesmerise all with its stunning appeal. Team it with a pair of washed jeans and slip-ons to complete the ensemble.",
+        "price": 4000.00,
+        "quantity": 15,
+        "tags": [
+          "new",
+          "slimfit"
+        ],
+        "imgurl": "../images/home/4.jpg"
+      },
+      {
+        "id": 1005,
+        "name": "Roadster Pack of 2 T-shirts",
+        "description": "Set a style statement in these T-shirts from Roadster. Team them with a jacket and a pair of jeans for a cool look.",
+        "price": 5000.00,
+        "quantity": 13,
+        "tags": [
+          "slimfit"
+        ],
+        "imgurl": "../images/home/5.jpg"
+      },
+      {
+        "id": 1006,
+        "name": "United Colors of Benetton T-shirt",
+        "description": "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+        "price": 3000.00,
+        "quantity": 20,
+        "tags": [
+          "new",
+          "casual"
+        ],
+        "imgurl": "../images/home/6.jpg"
+      }
+    ]
+  }
+}

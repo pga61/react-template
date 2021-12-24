@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "name": "Roadster Pack of 2 T-shirts",
+      "category": "topwear",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 2000.0,
+      "quantity": 30,
+      "tags": ["new", "casual", "slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1484682/2016/8/22/11471867758344-Rigo-Navy--White-Striped-Smart-Fit-T-shirt-1901471867757920-1_mini.jpg"
+    },
+    {
+      "id": 1006,
+      "name": "Highlander Navy Slim Fit Jeans",
+      "category": "bottomwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1310983/2016/4/19/11461041891935-Campus-Sutra-Black-Track-Pants-4871461041891055-1_mini.jpg"
+    },
+    {
+      "id": 1011,
+      "name": "Sanwara Maroon and Brown Banarasi Silk Kurta Churidar",
+      "category": "indian-and-festive-wear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1989029/2017/7/13/11499939021989-Manyavar-Mens-Suave-Orange-Pathani-4721499939021840-1_mini.jpg"
+    },
+    {
+      "id": 1014,
+      "name": "Fentacia Men Black Casual Shoes",
+      "category": "footwear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2353343/2017/12/19/11513687763301-Puma-Men-Grey-Sneakers-621513687763146-1_mini.jpg"
+    },
+    {
+      "id": 1002,
+      "name": "Highlander Grey and Navy T-shirt",
+      "category": "topwear",
+      "description":
+        "These T-shirts from Roadster are perfect for a casual outing. Team them with a pair of faded jeans and canvas shoes to complete the ensemble.",
+      "price": 1000.0,
+      "quantity": 32,
+      "tags": ["casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/image/style/properties/706285/GRITSTONES-Men-Tshirts_1_e5e85074a834f570c6d7a79987231474_mini.jpg"
+    },
+    {
+      "id": 1007,
+      "name": "United Colors of Benetton Navy Washed Slim Denim Shorts",
+      "category": "bottomwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/1814457/2017/3/20/11489990019344-JAINISH-Men-Jeans-3041489990019111-1_mini.jpg"
+    },
+    {
+      "id": 1012,
+      "name": "Sanwara Beige and Maroon Banarasi Silk Kurta Churidar",
+      "category": "indian-and-festive-wear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2120014/2017/9/13/11505273575485-Deyann-Dupion-Silk-Orange-Kurta-and-Brown-Dhoti-Set-2531505273575290-1_mini.jpg"
+    },
+    {
+      "id": 1003,
+      "name": "United Colors of Benetton Polo T-shirts",
+      "category": "topwear",
+      "description":
+        "Make your own contemporary style statement with these trendy polo T-shirts. Team them up with your favourite jeans or chino trousers and sneakers for a fashionable and cool look.",
+      "price": 100.0,
+      "quantity": 10,
+      "tags": ["new"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2073306/2017/8/24/11503564592100-Puma-Men-Tshirts-2011503564591942-1_mini.jpg"
+    },
+    {
+      "id": 1004,
+      "name": "INVICTUS White Printed Polo T-shirt",
+      "category": "topwear",
+      "description":
+        "This simple yet trendy tee is sure to mesmerise all with its stunning appeal. Team it with a pair of washed jeans and slip-ons to complete the ensemble.",
+      "price": 4000.0,
+      "quantity": 15,
+      "tags": ["new", "slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2311682/2017/12/6/11512550462101-Lee-Marc-mens-black-Velvet-regular-Fit-Patterned-Blazer-size36-2441512550461946-1_mini.jpg"
+    },
+    {
+      "id": 1009,
+      "name": "Roadster Blue Washed Jeans",
+      "category": "bottomwear",
+      "description": "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": [
+        "new",
+        "casual"
+      ],
+      "imgurl": "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2254313/2017/11/16/11510816176856-NA-1161510816176661-1_mini.jpg"
+    },
+    {
+      "id": 1005,
+      "name": "Roadster Pack of 2 T-shirts",
+      "category": "topwear",
+      "description":
+        "Set a style statement in these T-shirts from Roadster. Team them with a jacket and a pair of jeans for a cool look.",
+      "price": 5000.0,
+      "quantity": 13,
+      "tags": ["slimfit"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2193079/2017/10/23/11508745446111-na-3821508745445926-1_mini.jpg"
+    },
+    {
+      "id": 1008,
+      "name": "U.S. Polo Assn. Blue Washed Regallo Skinny Jeans",
+      "category": "bottomwear",
+      "description":
+        "This cool T-shirt is a perfect addition to your casual wardrobe. Team it up with a pair of jeans or chino trousers and casual shoes for a day out with friends.",
+      "price": 3000.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2256598/2017/11/17/11510901332505-NA-7341510901332313-1_mini.jpg"
+    },
+    {
+      "id": 1010,
+      "name": "Lawman pg3 White Slim Fit Jeans",
+      "category": "bottomwear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2174756/2017/10/13/11507875929240-JAINISH-Men-Blue-Slim-Fit-Low-Rise-Clean-Look-Stretchable-Jeans-5051507875928869-1_mini.jpg"
+    },
+    {
+      "id": 1013,
+      "name": "Veda Black Linen Kurta",
+      "category": "indian-and-festive-wear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/2193108/2017/10/23/11508742251254-na-361508742251027-1_mini.jpg"
+    },
+    {
+      "id": 1015,
+      "name": "Nike Men Grey Voleio Cnvs NSW Casual Shoes",
+      "category": "footwear",
+      "description":
+        "Show off your ability to rework on classic wardrobe staples with this pair of jeans which will easily slot into your daily roster. Team it with a printed shirt and suede loafers.",
+      "price": 300.0,
+      "quantity": 20,
+      "tags": ["new", "casual"],
+      "imgurl":
+        "https://assets.myntassets.com/h_240,q_90,w_180/v1/assets/images/922405/2016/5/6/11462539682104-San-Frissco-Men-Dark-Brown-Leather-Semiformal-Shoes-7341462539681893-1_mini.jpg"
+    }
+  ]
+}
